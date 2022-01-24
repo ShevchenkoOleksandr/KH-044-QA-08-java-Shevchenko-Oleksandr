@@ -1,9 +1,8 @@
-import java.io.IOException;
 import java.util.Scanner;
 
 public class Where_live {
 
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) {
         String name, address;
         Scanner scanner = new Scanner(System.in);
 
