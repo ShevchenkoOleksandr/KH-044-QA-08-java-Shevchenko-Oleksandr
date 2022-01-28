@@ -1,3 +1,5 @@
+package task_1_scanner;
+
 import java.util.Scanner;
 
 public class Where_live {
