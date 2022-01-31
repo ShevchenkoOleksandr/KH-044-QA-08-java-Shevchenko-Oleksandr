@@ -17,8 +17,8 @@ public class Task_2_count_cylinder {
         System.out.println("Please enter cylinder height:");
         height = scanner.nextInt();
 
-        volume = height * (Math.PI * Math.pow(radius,2));
+        volume = height * (Math.PI * Math.pow(radius, 2));
 
-        System.out.println("The volume of cylinder is - "+volume );
+        System.out.println("The volume of cylinder is - " + volume);
     }
 }
