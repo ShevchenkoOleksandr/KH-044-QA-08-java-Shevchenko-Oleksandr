@@ -1,5 +1,6 @@
 package Task_3_arrays;
 
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class Task_5 {
@@ -41,7 +42,5 @@ public class Task_5 {
 
             System.out.println("Length of this word is " + wordLength + " symbols");
         }
-
-
     }
 }
