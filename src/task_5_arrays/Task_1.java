@@ -30,7 +30,7 @@ public class Task_1 {
         System.out.println(getSymbols("# ", rhombusSize));
     }
 
-    private static String getSymbols(String symbol, int count) {
+    public static String getSymbols(String symbol, int count) {
         String symbolString = "";
         for (int i = 0; i < count; i++) symbolString += symbol;
         return symbolString;
